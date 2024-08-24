@@ -42,10 +42,3 @@ The project includes two primary UML diagrams:
 ## Design Pattern
 
 The **State Design Pattern** is applied to manage the state of customers (Silver or Gold). The pattern allows the customer's behavior to change based on their accumulated points. The concrete states are represented by the `Silver` and `Gold` classes.
-
-## How to Run the Application
-
-1. Ensure you have [NetBeans](https://netbeans.apache.org/) installed.
-2. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/bookstore-app.git
