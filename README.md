@@ -15,7 +15,7 @@ This repository contains the implementation of a simple Bookstore Application as
 
 The Bookstore Application allows users to log in as either an **Owner** or a **Customer**. Depending on the role, users can perform various actions:
 
-* **Owner**:
+* **Owner**: 
   * Add or remove books.
   * Register or delete customers.
   * Manage customer data including username, password, and points.
